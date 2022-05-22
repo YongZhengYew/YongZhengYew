@@ -1,4 +1,4 @@
-### Hi there... :wave:
+# Hi there... :wave:
 ... I'm Zheng Yew. Welcome to my Github page! I'm a:
 - Second-year university student
 - Taking Computer Science and Design (CSD)
@@ -6,9 +6,9 @@
 
 Yes, we like acronyms :laughing:
 
-I have another account, [snproj](https://github.com/snproj), for pet projects, so if you see links here to that page's repos, that's why!
+I have another account, [snproj](https://github.com/snproj), for pet projects, so if you see links here to that page's repos, that's why! This account is for everything else (school projects, Coursera course submissions, etc).
 
-#### :thumbsup: Some things I've done...
+## :thumbsup: Some things I've done...
 - Shell scripting to automate tasks and tests
 - Light tinkering with various Linux distros and ecosystem
 - FPGA programming
@@ -16,7 +16,7 @@ I have another account, [snproj](https://github.com/snproj), for pet projects, s
 - API interactions/Web scraping
 - Simple machine learning/data analysis
 
-#### :pencil: Languages I've used...
+## :pencil: Languages I've used...
 
 I'm most familiar with:
 - C/C++
@@ -37,7 +37,7 @@ But I've done projects with a wide range of languages!
 | FPGA | [Lucid HDL](#lucid-hdl) |
 | Scientific | [GNU Octave](#gnu-octave) |
 
-#### :computer: Technologies I've used
+## :computer: Technologies I've used
 | Type | Technologies |
 | --- | --- |
 | Web development / other web technologies | Spring Boot, Heroku, Selenium, Postman, jQuery, Flask, Jinjja, Bootstrap |
@@ -49,20 +49,20 @@ But I've done projects with a wide range of languages!
 | Linux distros | Ubuntu, Fedora, TinyCore, Raspbian, WSL(Ubuntu)|
 | Miscellaneous | Git, SSH, SCP |
 
-#### :school: I'm currently learning...
+## :school: I'm currently learning...
 - [Kernel development](https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/) course (corresponding to [this](https://github.com/snproj/sunriseKernel) project)
 - [Network fundamentals](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/) (CCNA)
 - More web development tools:
   - [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
   - [Node.js + Express + Mongodb](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 
-#### :telescope: I'm interested in...
+## :telescope: I'm interested in...
 - Low-level computing and operating systems
 - Programming language design
 - Network infrastructure and protocols
 - Deep learning (new to me)
 
-#### :phone: Contact me!
+## :phone: Contact me!
 - Alt Github: https://github.com/snproj/
 - LinkedIn: https://www.linkedin.com/in/yongzhengyew/
 - Email: zhengyew_yong@mymail.sutd.edu.sg
@@ -70,7 +70,7 @@ But I've done projects with a wide range of languages!
 ---
 ---
 ---
-#### Index of Projects by Language
+### Index of Projects by Language
 ###### x86 Assembly
 - Completed Udemy [course](https://ude.my/UC-4a5e721b-bf77-4e12-b0e9-00dc8a083cbe/)
 - [Kernel in progress](https://github.com/snproj/sunriseKernel)
