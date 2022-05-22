@@ -10,9 +10,11 @@ I have another account, [snproj](https://github.com/snproj), for pet projects, s
 
 ## :thumbsup: Some things I've done...
 - Shell scripting to automate tasks and tests
-- Light tinkering with various Linux distros and ecosystem
+- Experimenting with various Linux distros
+- Experimenting with writing a kernel (with guidance of course)
+- Living in the command-line ecosystem (I'll admit I went through a Unix ricing phase)
 - FPGA programming
-- Web development
+- Web development (Frontend and backend)
 - API interactions/Web scraping
 - Simple machine learning/data analysis
 
@@ -60,7 +62,7 @@ But I've done projects with a wide range of languages!
 - Low-level computing and operating systems
 - Programming language design
 - Network infrastructure and protocols
-- Deep learning (new to me)
+- AI/ML/DL (not aboard the hype train, but the fundamentals seem interesting so I'm eager to explore the general field)
 
 ## :phone: Contact me!
 - Alt Github: https://github.com/snproj/
