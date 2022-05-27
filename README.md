@@ -72,7 +72,7 @@ But I've done projects with a wide range of languages!
 ---
 ---
 ---
-### Index of Projects by Language
+### Index of Projects by Language (currently consolidating)
 ###### x86 Assembly
 - Completed Udemy [course](https://ude.my/UC-4a5e721b-bf77-4e12-b0e9-00dc8a083cbe/)
 - [Kernel in progress](https://github.com/snproj/sunriseKernel)
