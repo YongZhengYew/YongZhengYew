@@ -72,7 +72,8 @@ But I've done projects with a wide range of languages!
 ---
 ---
 ---
-### Index of Projects by Language (currently consolidating)
+### Index of Projects by Language (still being consolidated, will be complete soon!)
+Most projects listed here have their own readmes, so read those for more information!
 ###### x86 Assembly
 - Completed Udemy [course](https://ude.my/UC-4a5e721b-bf77-4e12-b0e9-00dc8a083cbe/)
 - [Kernel in progress](https://github.com/snproj/sunriseKernel)
@@ -80,14 +81,18 @@ But I've done projects with a wide range of languages!
 - Used C++ to complete Coursera Data Structures [course](https://www.coursera.org/account/accomplishments/certificate/8BBTJK6E4QUC), code is [here](https://github.com/YongZhengYew/DataStructuresInC)
 - [Joke text editor](https://github.com/snproj/ediac)
 - [Kernel in progress](https://github.com/snproj/sunriseKernel)
-- [This](https://replit.com/join/awynhcatfg-sonnenaufgang) monstrosity
+- [This](https://replit.com/join/awynhcatfg-sonnenaufgang) monstrosity to play around with gotos
+- [This](https://github.com/snproj/WargameCalculator) is basically the first programming project I ever did, after a few weeks of learning basic C++ syntax and object orientation
 ###### COBOL
 - [Manual logging program](https://github.com/snproj/COUNTER)
 ###### Rust
 - [Text parser for my own research](https://github.com/snproj/string_tree)
 ###### Java
 - [Spring Boot backend, with PostgreSQL, deployed on Heroku](https://github.com/YongZhengYew/wHeReGotTimeFind_backend)
+- CNF file parser and SAT solving (not sure if allowed to post code, university project)
+- 
 ###### Kotlin
+- [Text parser](https://github.com/snproj/steno)
 ###### Unity C#
 - [Simple rhythm game](https://github.com/snproj/ProjektZero2DGame)
 ###### Dart
@@ -101,18 +106,36 @@ But I've done projects with a wide range of languages!
   - Telegram
     - Deploy a howitzer with voice commands!
     - Busy auto-reply bot
-- 
+- [Data analysis and machine learning via regression](https://github.com/YongZhengYew/DDW_Project2D)
+- Completing a Flask MVC template for university project (not sure if the project is still being used for teaching, so instead of my repo, here's the [template](https://github.com/Data-Driven-World/d2w_mini_projects))
+- [Designing an index for the stability of a Jenga tower](https://github.com/YongZhengYew/MSSD2/blob/main/main.py)
+- [PyQt6 frontend connecting to Firebase backend, for the scoring system of a physical Jenga game](https://github.com/YongZhengYew/DTIScoringSystem)
+- [E-paper screen interfacing](https://github.com/YongZhengYew/MultipleEPaperScreen)
+- [Simple image manipulation, meant for e-paper project](https://github.com/YongZhengYew/photoDiffFinder)
+- [Simple text game with simple save system](https://github.com/YongZhengYew/TextBasedGame_CDT)
 ###### HTML/CSS/JS
+- [Very cringe project to explore basic features of raw HTML/CSS/JS](https://github.com/snproj/Mystery-Of-The-BoiZ)
+- [Simulating a retro computer/OS with uniselectors](https://github.com/snproj/Pot8OS)
+- [Simple 2D game engine](https://github.com/snproj/DatLatGE)
+- [A very overengineered array object that uses recursion (I was new to recursion at the time, this was long ago)](https://github.com/snproj/DatLat)
 ###### Clojure
 - [Markup language, parsed by Clojure, into typesetted HTML/CSS](https://github.com/snproj/dualwriter)
 - [Simple filesystem interactions](https://github.com/snproj/aegiseculock)
 ###### Haskell
+- Greedy calendar fitting algorithm
+- Brainheck, of course
 ###### PostgreSQL
+- [Backend for Android app](https://github.com/YongZhengYew/wHeReGotTimeFind_backend)
 ###### LaTeX
+- Many homework assignments (that I don't think I'm allowed to upload)
+- But I can upload this first draft of my resume which is really darn long-winded
 ###### Markdown
+- This obviously :D and also all the readmes of my projects across both Github accounts
+- Also now switched from doing homework in Markdown rather than LaTeX since Markdown's more readable and allows inline LaTeX anyway
 ###### Lucid HDL
+- [Physical arcade game](https://github.com/hithfaernith/compstruct1d)
 ###### GNU Octave
-
+- [Simple visualisation of air pollution in Singapore based on a custom pollution index](https://github.com/YongZhengYew/ModellingAndDesign_D1)
 <!--
 **YongZhengYew/YongZhengYew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
