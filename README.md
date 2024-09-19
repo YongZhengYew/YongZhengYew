@@ -1,12 +1,12 @@
 # Hi there... :wave:
 ... I'm Zheng Yew. Welcome to my Github page! I'm a:
-- Second-year university student
+- Finak-year university student
 - Taking Computer Science and Design (CSD)
 - Studying at the Singapore University of Technology and Design (SUTD).
 
 Yes, we like acronyms :laughing:
 
-I have another account, [snproj](https://github.com/snproj), for pet projects, so if you see links here to that page's repos, that's why! This account is for everything else (school projects, Coursera course submissions, etc).
+I have another account, [snproj](https://github.com/snproj), which I'm slowly moving to, so if you see links here to that page's repos, that's why!
 
 ## :thumbsup: Some things I've done...
 - Shell scripting to automate tasks and tests
