@@ -1,6 +1,6 @@
 # Hi there... :wave:
 ... I'm Zheng Yew. Welcome to my Github page! I'm a:
-- Finak-year university student
+- Final-year university student
 - Taking Computer Science and Design (CSD)
 - Studying at the Singapore University of Technology and Design (SUTD).
 
